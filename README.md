@@ -6,7 +6,7 @@ The Green Manifesto is a personal manifest I try to live by for doing my part in
 
 ## Transportation
 
-* Use a bike. For day-to-day transportation, like traveling to work (if in biking distance), to the store etc. Favor the bicycle. It's simple, cheap, easy to repair and good for personal health as well as the environment. To avoid owning and repairing a bike, use bikesharing systems. The North American Bike Share Association(NABSA) maintains a [list of systems](https://github.com/NABSA/gbfs/blob/master/systems.csv) implementing they're open standard.
+* Use a bike. For day-to-day transportation, like traveling to work (if in biking distance), to the store etc. Favor the bicycle. It's simple, cheap, easy to repair and good for personal health as well as the environment. To avoid owning and repairing a bike, use bikesharing systems. The North American BikeShare Association(NABSA) maintains a [list of systems](https://github.com/NABSA/gbfs/blob/master/systems.csv) implementing their open standard.
 
 * Avoid driving personal cars as much as possible, and favor public transportation. Cutting down personal car usage has a positive impact on both the local and the global environment, air-quality etc. In most cities favoring public transportation, the time saved commuting can also be a game changer. If a personal car has to be used, try carpooling and avoid single-person driving.
 
