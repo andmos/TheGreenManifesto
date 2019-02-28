@@ -19,3 +19,5 @@ The Green Manifesto is a personal manifest I try to live by for doing my part in
 * Store leftovers in plastic - but use more permanent plastic, like containers. Glass containers are also good. Avoid disposable plastic. Most [Tupperware containers have a lifetime warranty](https://www.tupperwareindia.com/help/lifetime-warranty), so it's built to last. For wrapping, [beeswax wrap](https://www.researchgate.net/publication/320419125_The_anti-microbial_effect_of_food_wrap_containing_beeswax_products) is a good alternative for replacing plastic as well as contribute to preventing food spoilage.
 
 ## Consumption
+
+* When buying cheap products and consumer goods, do the same exercise as most people do when they invest in more expensive products: Do the research. Try to find out as much as possible about the product, how and where it is produced etc. Many cheap products comes from cheap production lines and factories that cuts costs, thus [harming the environment in the process.](https://phys.org/news/2016-02-affects-environment.html).
