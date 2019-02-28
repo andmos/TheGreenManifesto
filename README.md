@@ -20,4 +20,4 @@ The Green Manifesto is a personal manifest I try to live by for doing my part in
 
 ## Consumption
 
-* When buying cheap products and consumer goods, do the same exercise as most people do when they invest in more expensive products: Do the research. Try to find out as much as possible about the product, how and where it is produced etc. Many cheap products comes from cheap production lines and factories that cuts costs, thus [harming the environment in the process.](https://phys.org/news/2016-02-affects-environment.html).
+* When buying cheap products and consumer goods, do the same exercise as most people do when they invest in more expensive products: Do the research. Try to find out as much as possible about the product, how and where it is produced etc. Many cheap products comes from cheap production lines and factories that cuts costs, thus [harming the environment in the process.](https://phys.org/news/2016-02-affects-environment.html)
