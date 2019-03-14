@@ -29,6 +29,8 @@ The Green Manifesto is a personal manifest I try to live by for doing my part in
 
 * Avoid products originating from organic farming. The idea of organic farming as "greener" and good for the environment as a whole is a [myth](https://theness.com/neurologicablog/index.php/organic-farming-is-bad-for-the-environment/). The average organic diet requires [40% more land than the average diet, even though the carbon footprint is essentialy equal](https://www.sciencedirect.com/science/article/pii/S0959652617309666). The average diet contains about 45% meat, which is the main driver for carbon emission. Take away most of the meat, and the footprint of the flexitarian non-organic diet comes out on top.
 
+* Avoid products containing palm oil. [The cultivation of oil producing palms are a mayor driver in deforestation where local forests and growth are cut down to support palms, which leads to killing biodiversity](http://ec.europa.eu/environment/forests/pdf/palm_oil_study_kh0218208enn_new.pdf). The carbon footprint this process produces is not sustainable.
+
 ## Consumption
 
 * When buying cheap products and consumer goods, do the same exercise as most people do when they invest in more expensive products: Do the research. Try to find out as much as possible about the product, how and where the production happens etc. It's not unusual for cheap products to come from cheap production lines and factories that cuts costs, thus [harming the environment in the process.](https://phys.org/news/2016-02-affects-environment.html)
