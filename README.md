@@ -2,7 +2,7 @@
 
 ## Intro
 
-The Green Manifesto is a personal manifest I try to live by for doing my part in fighting climate change. The goal is to spread awareness on what (most) individuals can do on their own without too much hassle and sacrifice, as well as fight the ["Tragedy of the commons"](https://en.wikipedia.org/wiki/Tragedy_of_the_commons) argumentation that often meets individual people who wants to live greener. Of course many people don't have the privilege of living close to work or the option to by more expensive, but sustainable clothing, electric vehicle etc. This manifesto is  achievable for the typical middle-class person or family, and this is also where most of the impact can be made.
+The Green Manifesto is a personal manifest I try to live by for doing my part in fighting climate change. The goal is to spread awareness on what (most) individuals can do on their own without too much hassle and sacrifice, as well as fight the ["Tragedy of the commons"](https://en.wikipedia.org/wiki/Tragedy_of_the_commons) argumentation that often meets individual people who wants to live greener, that it doesn't matter what one individual does. Of course many people don't have the privilege of living close to work or the option to by more expensive, but sustainable clothing, electric vehicle etc. This manifesto is  achievable for the typical middle-class person or family, and this is also where most of the impact can be made.
 
 ## Transportation
 
