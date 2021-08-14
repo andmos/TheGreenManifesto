@@ -54,3 +54,18 @@ The Green Manifesto is a personal manifest I try to live by for doing my part in
 An interesting example of new investment possibilities is the [Sun Exchange](https://thesunexchange.com/). With the Sun Exchange, individuals invest in solar cells that are installed in [various developing projects](https://thesunexchange.com/project) in need of cheap, green energy, leasing out the individual cells for a small fee, generating revenue for the owner of the cells.
 
 * When donating to charity, favor the ones that directly challenges climate change. Be mindful and do a thorough background check on the candidates in question and fact-check the [impact the donation will have](https://www.givewell.org/). An example of pro-bono organizations working to raise the standard of living through green technology and training in self-sustainability is [Engineers Without Borders (EWB)](http://www.ewb-international.org/). EWB has national groups all over the world, and both volunteering to their work as well as donations goes to building a sustainable future in third world countries.
+
+## Further reading and study
+
+Here follows a reading list of books written about or related to the subjects of climate change, environmentalism or green living. This list contains books I have read and find accessible and valuable. Please note that some of the books are opinionated by the authors, but common for them all is a strong tethering to science and facts. Since the science of climate change is ever-evolving, the list contains date of publishing.
+
+|  Title | Author | Language |  Publishing year |
+|--- |--- |--- |--- |
+| How to Avoid a Climate Disaster: The Solutions We Have and the Breakthroughs We Need   | Bill Gates   | English  | 2021  |
+| The Future We Choose: The Stubborn Optimist's Guide to the Climate Crisis   |  Christiana Figueres, Tom Rivett-Carnac | English  | 2021  |
+| Verden på vippepunktet   |  Prof. Dag O. Hessen | Norwegian  | 2020  |
+| Enlightenment Now   | Steven Pinker  | English  | 2018  |
+| 21 Lessons for the 21st Century   | Yuval Noah Harari  | English  | 2018  |
+| Jakten på den grønne lykken   |  Bjørn Stærk | Norwegian  | 2018  |
+| Six Degrees: Our Future on a Hotter Planet   |  Mark Lynas | English  | 2007  |
+| Collapse: How Societies Choose to Fail or Succeed   | Jared Diamond | English  | 2005  |
