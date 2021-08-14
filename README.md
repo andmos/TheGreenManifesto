@@ -24,7 +24,7 @@ The Green Manifesto is a personal manifest I try to live by for doing my part in
 
     The same study cites that "Producing 1 kg of animal protein requires about 100 times more water than producing 1 kg of grain protein", and livestock uses 1.3% of all water in agriculture. When plant based protein is used as food source for livestock, the aggregated number grows dramatically. Feeding of livestock with soy is a huge waste of direct human-digestible source for protein, where [77% of soy grown in the world is used for animal food](https://ourworldindata.org/soy). This soy usage leads to de-forestation (to some degree), as well as carbon emission related to Brazilian [export of soy to other nations around the world](https://www.uni-bonn.de/news/114-2020).
 
-    As for calory efficiency, [25 calories (from plants, etc) is needed for each 1 calorie of beef](https://cbey.yale.edu/our-stories/disrupting-meat), while pork has a 15 to 1 ration, and chicken, the most efficient of animal calories, requires 9 calories to 1.
+    As for calory efficiency, [25 calories (from plants, etc) is needed for each 1 calorie of beef](https://cbey.yale.edu/our-stories/disrupting-meat), while pork has a 15 to 1 ratio, and chicken, the most efficient of animal calories, requires 9 calories to 1.
 
     A pure vegetarian (or vegan) diet helps sustainability, but a [a vegan diet alone lacks nutrients that requires supplements](https://www.researchgate.net/publication/318135128_The_impact_of_vegan_diet_on_health_and_growth_of_children_and_adolescents_-_Literature_review). A flexitarian approach with _less meat consumption_ is accessible for a wider group and is also [healthy.](https://nutritionstudies.org/research-confirms-a-plant-based-diet-can-help-you-live-longer/)
 
