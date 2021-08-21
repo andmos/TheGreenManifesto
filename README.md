@@ -64,6 +64,7 @@ Here follows a reading list of books written about or related to the subjects of
 |  Title | Author | Language |  Publishing year |
 |--- |--- |--- |--- |
 | How to Avoid a Climate Disaster: The Solutions We Have and the Breakthroughs We Need   | Bill Gates   | English  | 2021  |
+| Numbers Don't Lie: 71 Things You Need to Know About the World   | Vaclav Smil    | English  | 2020  |
 | The Future We Choose: The Stubborn Optimist's Guide to the Climate Crisis   |  Christiana Figueres, Tom Rivett-Carnac | English  | 2021  |
 | Verden på vippepunktet   |  Prof. Dag O. Hessen | Norwegian  | 2020  |
 | Enlightenment Now   | Steven Pinker  | English  | 2018  |
