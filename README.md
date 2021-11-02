@@ -75,4 +75,4 @@ Here follows a reading list of books written about or related to the subjects of
 
 ## Links status
 
-![Hyperlink status](https://github.com/andmos/TheGreenManifesto/actions/workflows/verify.yaml/badge.svg?event=schedule)
+![Hyperlink status](https://github.com/andmos/TheGreenManifesto/actions/workflows/verify.yaml/badge.svg)
