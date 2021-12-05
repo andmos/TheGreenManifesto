@@ -67,6 +67,7 @@ Here follows a reading list of books written about or related to the subjects of
 | Numbers Don't Lie: 71 Things You Need to Know About the World   | Vaclav Smil    | English  | 2020  |
 | The Future We Choose: The Stubborn Optimist's Guide to the Climate Crisis   |  Christiana Figueres, Tom Rivett-Carnac | English  | 2021  |
 | Verden på vippepunktet   |  Prof. Dag O. Hessen | Norwegian  | 2020  |
+| The Uninhabitable Earth   |  David Wallace-Wells | English  | 2019  |
 | Enlightenment Now   | Steven Pinker  | English  | 2018  |
 | 21 Lessons for the 21st Century   | Yuval Noah Harari  | English  | 2018  |
 | Jakten på den grønne lykken   |  Bjørn Stærk | Norwegian  | 2018  |
